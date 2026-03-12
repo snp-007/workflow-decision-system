@@ -1,0 +1,17 @@
+{
+  "loan_approval": {
+    "version": "1.0",
+    "steps": [
+      {
+        "name": "credit_check",
+        "rule": "credit_score >= 650"
+      },
+      {
+        "name": "income_check",
+        "rule": "income >= 30000"
+      }
+    ],
+    "success": "approved",
+    "fail": "manual_review_pending"
+  }
+}
