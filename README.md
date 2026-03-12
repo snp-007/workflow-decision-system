@@ -1,5 +1,12 @@
 # Configurable Workflow Decision Platform
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-framework-green)
+![SQLAlchemy](https://img.shields.io/badge/Database-SQLAlchemy-orange)
+![Workflow Engine](https://img.shields.io/badge/System-Workflow%20Engine-purple)
+
+# Configurable Workflow Decision Platform
+
 ## Overview
 
 This project implements a **Configurable Workflow Decision Platform** capable of processing business workflows under changing requirements, operational constraints, and rule ambiguity.
